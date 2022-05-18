@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/RediSearch/redisearch-go/redisearch"
 	"github.com/gomodule/redigo/redis"
+	"github.com/tuziershi/redisearch-go/redisearch"
 	"log"
 	"time"
 )

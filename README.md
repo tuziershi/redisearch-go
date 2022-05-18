@@ -27,7 +27,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/RediSearch/redisearch-go/redisearch"
+	"github.com/tuziershi/redisearch-go/redisearch"
 )
 
 func ExampleClient() {
